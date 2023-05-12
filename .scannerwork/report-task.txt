@@ -1,0 +1,6 @@
+projectKey=RN_Project
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=RN_Project
+ceTaskId=AYgARepfRZml927cFhG0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYgARepfRZml927cFhG0
